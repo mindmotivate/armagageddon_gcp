@@ -31,4 +31,6 @@ If you wish to contribute to this repository, you must first prove yourself by c
 ## Disclaimer
 This is a fictional scenario for educational purposes. No Sith Lords were harmed in the making of this repository.
 
-![alt text](image.png)
+<p align="center">
+    <img src="image.png" alt="Alt text" width="110%">
+</p>
