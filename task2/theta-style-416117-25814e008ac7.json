@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "theta-style-416117",
+  "private_key_id": "25814e008ac79cb4388f3ad6572c96e9106e22b3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhTuY5LvHuIix0\nzdDDEcgJmAZx8blCsp3cM1l+cuqDjip641/XvzqZSztw9AYOPZccKpl3qTn8i8iM\nla5C4xIum58YAiThPKgMU+svRRwbu+eUj6wIz8CuTGSCLfP3UeUl9kICn6Tt1x2b\noKtI2FyTUwAyVXphb0ASt13kO1Kt/IAmRcqU/mQWTe5RsgUuBzi0c+lCXG9o6/dy\nYkPe+ftpvEeiTu8o7gVX3M/MrBPbujsBQIUX8YYk6I1snLIvFQtT3CEPKFu9b2LP\nL3TdxgLFnAzyDCa6Bhu/b6Oss1FcLGhvI+T2P5FzSiGGB/NdeOGMynEfmoQzcScx\nF5gG8he/AgMBAAECggEAUAim30k9x0l8YUF7FtAKLt5B69fh5z9rs/zJnZFUnMaz\ncFO0h/714d5Hjygfvo9CTk8TlN4YKw28f7Pr4vamTsgZC343e4sAZuCoenIiOffV\nm4AtrDOgTkn0qgmI0CHXNFT1vdjXzWTMr6uzLH0u5WZme3rBrjrGl99rCtfH1uVg\nMl10A0GSv7tHcI9HFHiGrwe7AtQkiYkz8Hj2izRFDRvztnuYzsWolbafiU2JGhCs\nU4uYGB7RR2jebakSe4BYyvFEvC9nvLZ+G6odXSP0VkXNKyWch+F6veY57zr5uPDC\nxol236ZVEWpUlchw51IvzmB7C3PFajAGL3cjhUZAgQKBgQD2UMgpUagNzBwhAGKM\nixA+rU3ewgdS6c5FewQwfS+FUtopbxazcURVeyBrZJE2W+jtv1JbrfThYd8ooNCM\nHCQFfiTsctvex8WuYLz5xgFiBjIPNUJh49Xcd49y+DZXctqI4PARkn3Fu24BJfOd\n2QG6U8qFGGdl/PPAVYH41tX8GwKBgQDqKqyJgK4+WNHVR+lW0Fzm8VlOedTxPVZg\nksLQpyuUg0EehnMBt64BMyI05v5V8COS4qgvAN8oTN2x9tJOI6AKdhEd8Q8KSUGa\nMSC+OVvspLweoPVRnsmkdLsn2Qff1BdUp5RyshVRWeluq2qmR2Dn4FH8FXbY6bfP\nugIlpjzFLQKBgHjyKZbAVbiQpK8/tSQ1lIByMG5U76uyymorgV8d2RuqFx2JQqhR\n0a/3iW+yLet3LeSvsQz7WebhW+ZjMIPbvYRE8HR54aR+i36YWbJ7m2o6iJIXIMVY\nTka3HmThpC1EZDIZ4Ud/mupgoh9GN10mlUacpjC8TukxT679TZiWRPRJAoGABhwi\n8FuJMFtE7lm3/unk4qm9eMy4/6poDJEHwEX8Xx2ln1RGv+64/ZMF+3djf36KjxSW\n6tMM/5Ix3qjgB+XqERvPioZ1rAEJUyqg/hWlDmGl/u6YOA76l+3rzDhfejmgejb9\nKpj28W51JswWNkx6fNJfkUJGHZbLkwH5eF4EC+kCgYEArwqwZ7k60p/gv2BDjze7\niPl4rrMYTVmeNO8f6MrHhmuz3GE3ROdXZyZKzAC/Umh+cSTueqcvWoEzxcztOFB0\neC6ixbo5odN1g0ffemtCpb6DvuBmrlZTrDZOviLhf++0kz3V82oGD8tu+c9KP19a\ntvF+Ds1Qq+kwKw78VzkGl80=\n-----END PRIVATE KEY-----\n",
+  "client_email": "malgus-terraform@theta-style-416117.iam.gserviceaccount.com",
+  "client_id": "118149202700746799629",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/malgus-terraform%40theta-style-416117.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
