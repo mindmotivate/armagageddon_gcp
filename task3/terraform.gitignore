@@ -17,3 +17,12 @@ tfplan*.backup
 
 # Ignore CLI cache files
 .terraform-cache
+
+# Ignore lock files
+*.lock
+
+# Ignore .json files
+*.json
+
+# Ignore .hcl files
+*.hcl
