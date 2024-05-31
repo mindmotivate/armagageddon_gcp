@@ -8,7 +8,7 @@ variable "project_id" {
 variable "credentials" {
   description = "The path to the service account key file"
   type        = string
-  default     = "theta-style-416117-25814e008ac7.json"
+  default     = "keys.json"
 }
 
 
